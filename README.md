@@ -8,11 +8,14 @@
   <i>"Ver as nossas ideias tomando forma é como ver o sol ganhando existência"</i>
 </div>
 
-<br><div align="center">
+<!--START_SECTION:activity-->
+<br>
+<div align="center">
   <a href="https://github.com/ViniciusBalestrin">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBalestrin&count_private=true&show_icons=true&theme=transparent"/>
   </a>
 </div>
+<!--END_SECTION:activity-->
 
 <div align="center" valign="top"><br>
   <img align="center" alt="PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
