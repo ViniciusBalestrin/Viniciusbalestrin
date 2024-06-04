@@ -19,7 +19,7 @@
 
 <div align="center" valign="top"><br>
   <img align="center" alt="PHP" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Laravel" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">  
+  <img align="center" alt="Laravel" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">          
   <img align="center" alt="Vue" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="nginx" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
